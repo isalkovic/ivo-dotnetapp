@@ -1,0 +1,10 @@
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/bin/Debug/netcoreapp2.0/ivo-dotnet-app.deps.json
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/bin/Debug/netcoreapp2.0/ivo-dotnet-app.runtimeconfig.json
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/bin/Debug/netcoreapp2.0/ivo-dotnet-app.runtimeconfig.dev.json
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/bin/Debug/netcoreapp2.0/ivo-dotnet-app.dll
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/bin/Debug/netcoreapp2.0/ivo-dotnet-app.pdb
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/obj/Debug/netcoreapp2.0/ivo-dotnet-app.csproj.CoreCompileInputs.cache
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/obj/Debug/netcoreapp2.0/ivo-dotnet-app.AssemblyInfoInputs.cache
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/obj/Debug/netcoreapp2.0/ivo-dotnet-app.AssemblyInfo.cs
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/obj/Debug/netcoreapp2.0/ivo-dotnet-app.dll
+/Users/ivo/DSK_demo/git_repo/ivo-dotnet-app/obj/Debug/netcoreapp2.0/ivo-dotnet-app.pdb
