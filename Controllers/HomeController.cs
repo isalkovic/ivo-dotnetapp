@@ -18,7 +18,7 @@ namespace ivo_dotnet_app.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-            ViewData["Machine"] = "MACHINE NAME IS:: " + Environment.MachineName;
+            ViewData["Machine"] = "MACHINE NAME NOW IS:: " + Environment.MachineName;
 
             return View();
         }
